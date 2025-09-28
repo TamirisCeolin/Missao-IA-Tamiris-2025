@@ -1,9 +1,9 @@
 :root {
-    --cor-fundo: #01080E;
-    --cor-principal: #0B0D20;
-    --cor-secundaria: #212333;
-    --cor-destaque: #2BDEFD;
-    --cor-texto: #D7F9FF;
+    --cor-fundo: #0A0214;        /* fundo quase preto, com toque violeta */
+    --cor-principal: #1A0826;    /* roxo bem escuro para áreas principais */
+    --cor-secundaria: #2E1A47;   /* violeta profundo para caixas/menus */
+    --cor-destaque: #BB86FC;     /* violeta claro neon, chama atenção */
+    --cor-texto: #E6DAF8;        /* texto em lilás bem suave */
 }
 
 body {
