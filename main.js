@@ -110,10 +110,9 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-  caixaPerguntas.textContent = "Em 2049...";
+  caixaPerguntas.textContent = "Se fosse possível traduzir sua forma de aprender em palavras, diríamos que...";
   textoResultado.textContent = historiaFinal;
   caixaAlternativas.textContent = "";
 }
-
 
 mostraPergunta();
