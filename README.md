@@ -1,0 +1,1 @@
+# Missao-IA-Tamiris-2025
